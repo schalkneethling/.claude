@@ -1,0 +1,21 @@
+{
+  "name": ".claude",
+  "version": "1.0.0",
+  "description": "Claude Code Skills for Cursor IDE integration.",
+  "scripts": {
+    "prettier:lint": "prettier .",
+    "prettier:format": "prettier --write ."
+  },
+  "keywords": [
+    "claude",
+    "cursor",
+    "ide",
+    "skills"
+  ],
+  "author": "https://github.com/schalkneethling",
+  "license": "MIT",
+  "packageManager": "pnpm@10.26.0",
+  "dependencies": {
+    "prettier": "^3.7.4"
+  }
+}
